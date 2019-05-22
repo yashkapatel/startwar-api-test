@@ -7,6 +7,6 @@ Requirements:
 Your Task:
 1.	Create functional test cases that validate that the requirements have been met.
 2.	Create a test suite that automates the tests written in step 1
-a.	The tests should be formatted such that they can be shared with non-technical reviewers (eg: in plain English) 
-b.	The test results should be included in an automatically generated report that can be shared with the same non-technical reviewers
-c.	The test suite should be capable of being incorporated into an automated integration and deployment pipeline 
+3.	The tests should be formatted such that they can be shared with non-technical reviewers (eg: in plain English) 
+4.	The test results should be included in an automatically generated report that can be shared with the same non-technical reviewers
+5.	The test suite should be capable of being incorporated into an automated integration and deployment pipeline 
